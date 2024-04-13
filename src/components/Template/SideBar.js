@@ -10,7 +10,7 @@ const SideBar = () => (
     <section id="intro">
       <Link to="/" className="logo">
         {/* <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" /> */}
-        <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" style={{ width: '350px', height: '350px' }} />
+        <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" style={{ width: '300px', height: '300px' }} />
       </Link>
       <header>
         <h2>Ebrahim Sharifnia</h2>
