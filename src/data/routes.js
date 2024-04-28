@@ -10,11 +10,11 @@ const routes = [
   },
   {
     label: 'Resume',
-    path: '/',
+    path: '/resume',
   },
   {
     label: 'Projects',
-    path: '/',
+    path: '/projects',
   },
   {
     label: 'Stats',
@@ -22,7 +22,7 @@ const routes = [
   },
   {
     label: 'Contact',
-    path: '/',
+    path: '/contact',
   },
 ];
 
