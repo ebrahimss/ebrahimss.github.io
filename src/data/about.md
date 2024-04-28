@@ -42,7 +42,7 @@ I am an experienced research scientist specializing in machine learning, optimiz
 
 # Websites from people I admire
 
-- [Alex Peysakhovich](http://alexpeys.github.io/)
+<!-- - [Alex Peysakhovich](http://alexpeys.github.io/)
 - [Chris Lengerich](http://www.chrislengerich.com/)
 - [Chris Saad](https://www.chrissaad.com/)
 - [Duncan Tomlin](http://duncantomlin.com/)
@@ -55,4 +55,4 @@ I am an experienced research scientist specializing in machine learning, optimiz
 - [Noah Trueblood](http://notrueblood.com/)
 - [Ruoxi Wang](http://ruoxiw.com/)
 - [Tom Sachs](https://www.tomsachs.org/)
-- [Will Holley](https://willholley.com).
+- [Will Holley](https://willholley.com). -->
