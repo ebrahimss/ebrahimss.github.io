@@ -30,12 +30,12 @@ const data = [
     icon: faLinkedinIn,
   },
   // {
-  //   link: 'https://angel.co/michael-d-angelo',
+  //   link: 'https://',
   //   label: 'Angel List',
   //   icon: faAngellist,
   // },
   // {
-  //   link: 'https://twitter.com/dangelosaurus',
+  //   link: 'https://twitter.com/',
   //   label: 'Twitter',
   //   icon: faTwitter,
   // },
