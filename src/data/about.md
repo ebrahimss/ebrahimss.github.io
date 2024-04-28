@@ -34,7 +34,7 @@ I am an experienced research scientist specializing in machine learning, optimiz
 # I dream of
 
 - Inspiring and feeling inspired.
-- Enabling a brighter future for everyone, regardless of political or socioeconomic status.
+<!-- - Enabling a brighter future for everyone, regardless of political or socioeconomic status. -->
 - Treating every individual with genuine kindness and respect.
 - Staying curious.
 - Continually improving.
