@@ -16,7 +16,7 @@ const SideBar = () => (
         <h2>Ebrahim Sharifnia</h2>
         <p><a href="mailto:ebrahim.sharif.n@gmail.com">ebrahim.sharif.n@gmail.com</a></p>
       </header>
-      <p>Greetings! I&apos;m Ebrahim Sharifnia, currently advancing my doctoral studies at the <a href="https://ise.utk.edu//">University of Tennessee&apos;s Department of Industrial & Systems Engineering</a> an a concurretn masters degree in statistics at the <a href="https://haslam.utk.edu/</p>">Haslam College of Business</a>, and an academic foundation from <a href="https://en.sharif.edu///">Sharif University of Technology</a>.
+      <p>Greetings! I&apos;m Ebrahim Sharifnia, a data scientist and research scientist in optimization and data-driven decision-making. I haev a PhD in Industrial Engineering from the <a href="https://ise.utk.edu//">University of Tennessee</a>, where I also pursued a concurrent Master&apos;s degree in statistics at the <a href="https://haslam.utk.edu/</p>">Haslam College of Business</a>. My earlier master&apos;s study at <a href="https://en.sharif.edu///">Sharif University of Technology</a> gave me a solid technical and analytical background.
       </p>
       <ul className="actions">
         <li>
